@@ -49,5 +49,11 @@ Este proyecto consiste en desarrollar una calculadora básica en C# utilizando W
 - Asegúrate de que todos los controles (botones, TextBox, y ListBox) se ajusten proporcionalmente cuando el usuario cambie el tamaño del formulario.
 
 ---
+### Bibligografia 
 
+https://es.stackoverflow.com/questions/605633/calculadora-c-windows-forms
+
+https://es.sharpcoderblog.com/blog/creating-a-simple-calculator-in-csharp
+
+https://bravedeveloper.com/2024/06/09/calculadora-simple-en-c/
 
